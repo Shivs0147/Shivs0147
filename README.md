@@ -11,7 +11,7 @@
 
 - 👯 I also completed a [Toys Sales Dashboard](https://app.powerbi.com/groups/me/reports/f6eef84a-16c8-4465-8f14-ca0997352809/6c09ce779bdeebfdefa6?experience=power-bi)
 
-- 🤝 I’m currently working on **Stationary Sales Dashboard (Power BI) **
+- 🤝 I’m currently working on **Stationary Sales Dashboard(Power BI)**
 
 - 📫 How to reach me **shivamgabani.744@outlook.com**
 
