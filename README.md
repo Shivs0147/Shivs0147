@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivam gabani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam gabani" height="30" width="40" /></a>
 <a href="https://instagram.com/shivm.220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivm.220" height="30" width="40" /></a>
+<a href="https://shivs0147.github.io/my-portfolio/" target="blank"><img align="center" src="https://drive.google.com/file/d/1bSweC57HBDakNZEftpAijKomf_MUobQC/view?usp=sharing" alt="portfolio" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
