@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Shivs0147/Shivs0147/blob/main/DA%20Banner.png" /></p>
+<p align="center"><img src="Banner.png" /></p>
 <h1 align="center">Hi 👋, I'm Shivam Gabani</h1>
 <h3 align="center">Data Analyst | Power BI Developer | Turning raw data into insights with Power BI, DAX, Excel & SQL | Building real-world dashboards since 2024</h3>
 
