@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivs0147" alt="shivs0147" /></a> </p>
 
-- 🔭 I recently completed a [Hospital Analysis Dashboard](https://app.powerbi.com/groups/me/reports/de342b67-ab9c-439e-b972-b00d5ee5e9fa/e9c69079d99bcdbffd62?experience=power-bi)
+- 🔭 I recently completed a Blinkit Report with [`SQL`](https://github.com/Shivs0147/Blinkit-Analysis-in-SQL), [`Python`](https://github.com/Shivs0147/Blinkit-Analysis-in-Python), [`Excel`](https://github.com/Shivs0147/Blinkit-Dashboard-Excel), [`Power BI`](https://github.com/Shivs0147/Blinkit-Report-PBI).
 
 - 🌱 I’m currently learning **Python and Its Library**
 
-- 👯 I also completed a [Toys Sales Dashboard](https://app.powerbi.com/groups/me/reports/f6eef84a-16c8-4465-8f14-ca0997352809/6c09ce779bdeebfdefa6?experience=power-bi)
+- 👯 I also completed a [Hospital Analysis Dashboard](https://app.powerbi.com/groups/me/reports/de342b67-ab9c-439e-b972-b00d5ee5e9fa/e9c69079d99bcdbffd62?experience=power-bi)
 
-- 🤝 I’m currently working on **BlinkIt Grocery(Power BI, SQL, Python, Excel)**
+- 🤝 I’m currently working on **Student Management AI Tracker(Power BI, SQL, Python, Excel)**
 
 - 📫 How to reach me **shivamgabani.744@outlook.com**
 
